@@ -45,7 +45,7 @@
 
 安装及使用：
 ```
-wget https://github.com/haomuch/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar -zxvf Xray-main.tar.gz;cd Xray-main;chmod +x i*;./i* -l
+bash <(wget -qO- -o- https://github.com/haomuch/Xray/raw/main/install.sh)
 ```
 
 # 帮助
